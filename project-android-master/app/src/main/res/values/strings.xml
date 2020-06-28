@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">escola</string>
+
+    <string name="des">Desenvolvedor Android</string>
+    <string name="list">Listar</string>
+    <string name="listagemCurso">Listagem de cursos</string>
+    <string name="listagemTurma">Listagem de turmas</string>
+
+</resources>
